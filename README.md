@@ -206,7 +206,7 @@ echoで与えたargumentが数値の場合はunixtime値として扱い、そう
 {{helper('helper-function',argument)}}
 ```
 ## パラメータ
-helper-function : 呼び出すプラグイン名<br>
+helper-function : 呼び出すヘルパー名<br>
 argument : helperに渡す引数名<br>
 ## 説明
 出力タグにない機能をヘルパーとして登録する事が出来ます。<br><br>
